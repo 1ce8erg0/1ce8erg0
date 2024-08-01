@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 
 I am a network engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Australia.
