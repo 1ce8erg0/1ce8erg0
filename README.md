@@ -46,7 +46,6 @@ I am a network engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1ce8erg0&theme=moltack&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1ce8erg0)](https://github.com/1ce8erg0/github-readme-stats)
 
